@@ -2,6 +2,10 @@
 
 An MCP server that delivers crypto ETF flow data to power AI agents' decision-making.
 
+<a href="https://glama.ai/mcp/servers/@kukapay/etf-flow-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/etf-flow-mcp/badge" alt="etf-flow-mcp MCP server" />
+</a>
+
 [![Discord](https://img.shields.io/discord/1353556181251133481?cacheSeconds=3600)](https://discord.gg/aRnuu2eJ)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -89,4 +93,3 @@ An MCP server that delivers crypto ETF flow data to power AI agents' decision-ma
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
